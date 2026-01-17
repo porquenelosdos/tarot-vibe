@@ -3,6 +3,6 @@
   "name": "Tarot Card Desklet",
   "description": "A one-card tarot pull with poetic interpretation.",
   "version": "1.0",
-  "max-instances": 1
+  "max-instances": 1,
+  "icon": "images/icon.png"
 }
-
