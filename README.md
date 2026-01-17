@@ -12,9 +12,6 @@ Draw a card, read its poetic interpretation, and discover your fate.
 
 ## Screenshots
 
-- **Card Back**  
-![Card Back](images/screenshot_back.png)
-
 - **Sample Drawn Card**  
 ![Drawn Card](images/screenshot_front.png)
 
